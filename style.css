@@ -1,0 +1,82 @@
+*{
+    font-family: fantasy;
+    
+}
+body{
+    background-color: #f5f4f4;
+}
+
+
+
+.banner{
+
+    background-image: url('Banner\ Image.png');
+    
+    height: 600px;
+    background-repeat: no-repeat;
+    margin: 50px 100px 130px 300px;
+    border-radius: 16px;
+    border-radius: 10px;
+    
+}
+.banner-text{color: #ffffff;
+    padding: 133px 544px 50px 350px;
+    text-align: center;
+    font-weight: 900;
+    
+    
+    
+}
+#text{
+    color: #f00;
+}
+.mid-section{
+    background-image: url('Vectorrr.png');
+    background-repeat: no-repeat;
+    display: flex;
+    width: 1300px;
+    height: 500px;
+    margin: 100px 100px 40px 300px;
+    border-radius: 16px;
+   color: #ffff;
+   
+}
+.last-banner{
+    background-color: #d3d0d0;
+    width: 1300px;
+height: 482px;
+margin: 100px 100px 40px 300px;
+border-radius: 10px;
+}
+
+#span{color: #f00;}
+
+.last-main{background-color: pink;
+    width: 1300px;
+    height: 550px;
+    margin: 100px 100px 40px 300px;
+    text-align: center;
+border-radius: 5px;
+padding-top: 100px;
+}
+
+.last-image{
+    margin-right: 20px;
+}
+.icon{
+    margin-right: 10px;
+}
+
+#discount{
+    height: 400px;
+}
+
+
+
+
+
+
+
+
+
+
